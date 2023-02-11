@@ -1,15 +1,16 @@
 /**
 • JSON configuration file for the Client Updater
-• version The version of the client, represented as "major.minor.patch".
+• clientVersion The version of the client, represented as "major.minor.patch".
+• launcherVersion The version of the launcher, represented as "major.minor".
 • replaceFolders Whether the updater should replace the client's current folders
-• folders An array of objects representing the client's folders, each object has the key "name"
+• replaceFolderName An array of objects representing the client's folders, each object has the key "name"
 • clientFolder The name of the main client folder, represented as "Tibia"
 NOTE: Set it to "false" or only "" to not use the client folder, so everything will be added to the main folder
 • newClientUrl The URL where the new client version can be downloaded from
-• executable The path to the client's executable file, represented as "bin/molten.exe"
+• clientExecutable The path to the client's executable file, represented as "bin/molten.exe"
 */
 {
-	"clientVersion": "12.91.12329",
+	"clientVersion": "13.11.12929",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -20,10 +21,13 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "storeimages"
 		},
 		{
+			"name": "sounds"
+		},
+		{
 			"name": "bin"
 		}
 	],
 	"clientFolder": "Molten",
 	"newClientUrl" : "https://github.com/gccris/molten_client/releases/download/client-molten/client-to-update.zip",
-	"clientExecutable": "molten.exe"
+	"clientExecutable": "molten.exe",
 }
