@@ -7,6 +7,7 @@
 • clientFolder The name of the main client folder, represented as "Tibia"
 NOTE: Set it to "false" or only "" to not use the client folder, so everything will be added to the main folder
 • newClientUrl The URL where the new client version can be downloaded from
+NOTE: It must point to the download url of the file and not an HTML page
 • clientExecutable The path to the client's executable file, represented as "bin/molten.exe"
 */
 {
