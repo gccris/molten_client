@@ -30,5 +30,6 @@ NOTE: It must point to the download url of the file and not an HTML page
 	],
 	"clientFolder": "Molten",
 	"newClientUrl" : "https://github.com/gccris/molten_client/releases/download/client-molten/client-to-update.zip",
+	"newLauncherUrl" : "https://github.com/gccris/molten_client/releases/download/client-molten/MoltenLauncher.zip",
 	"clientExecutable": "molten.exe",
 }
