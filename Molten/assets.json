@@ -14,7 +14,7 @@
 "unpackedsize":159497,
 "packedhash":"9a91f7421b3937d11841b879ca9f89965c43ec2abd00b9db85897fdaee270515",
 "packedsize":48368,
-"localfile":"assets/staticdata-aaf6a2ec31d86c7bb6a4fef556a75ae5e5dd85e0662518a760d9a5725be6c0a7.dat"
+"localfile":"assets/staticdata.dat"
 },
 {
 "url":"assets/staticmapdata-9916a539e49ac466fd89a85fc3616f8a525db13ea4b1ca298ca9019329042145.dat.lzma",
@@ -22,7 +22,7 @@
 "unpackedsize":1454891,
 "packedhash":"f80c1291d5e5a0c3129de7d9ccebf8d024e278acc5a8de9d5d2fe667144ac487",
 "packedsize":144627,
-"localfile":"assets/staticmapdata-9916a539e49ac466fd89a85fc3616f8a525db13ea4b1ca298ca9019329042145.dat"
+"localfile":"assets/staticmapdata.dat"
 },
 {
 "url":"assets/sprites-718538565a03642a47b3e1000c6c6d7adabf25ea71319bf38c5fafac9f6ac203.bmp.lzma",
@@ -28374,7 +28374,7 @@
 "unpackedsize":174599,
 "packedhash":"aa83eab30a6a5ea45ce29d0454adb3e2c35f09727dee375767f99cf248b57f9a",
 "packedsize":60258,
-"localfile":"assets/map-2e06100db6d689932deb4bc3de50cea50d9aca17b308f0d1993e0aa2e45402d1.dat"
+"localfile":"assets/map.dat"
 },
 {
 "url":"assets/subarea-0201-c805d321bbf6013395849027fb95d22736b0bb3aff8b6809b82ae1eee983ece7.bmp.lzma",

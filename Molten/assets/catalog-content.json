@@ -6,15 +6,15 @@
 },
 {
   "type":"staticdata",
-  "file":"staticdata-aaf6a2ec31d86c7bb6a4fef556a75ae5e5dd85e0662518a760d9a5725be6c0a7.dat"
+  "file":"staticdata.dat"
 },
 {
   "type":"staticmapdata",
-  "file":"staticmapdata-9916a539e49ac466fd89a85fc3616f8a525db13ea4b1ca298ca9019329042145.dat"
+  "file":"staticmapdata.dat"
 },
 {
   "type":"map",
-  "file":"map-2e06100db6d689932deb4bc3de50cea50d9aca17b308f0d1993e0aa2e45402d1.dat"
+  "file":"map.dat"
 },
 {
   "type":"sprite",
