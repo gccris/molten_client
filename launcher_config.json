@@ -12,7 +12,7 @@ NOTE: It must point to the download url of the file and not an HTML page
 */
 {
 	"clientVersion": "13.16.13209",
-	"launcherVersion": "1.2",
+	"launcherVersion": "1.3",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
