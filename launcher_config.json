@@ -11,7 +11,7 @@ NOTE: It must point to the download url of the file and not an HTML page
 • clientExecutable The path to the client's executable file, represented as "bin/molten.exe"
 */
 {
-	"clientVersion": "13.20.13561",
+	"clientVersion": "13.34.14646",
 	"launcherVersion": "1.4",
 	"replaceFolders": true,
 	"replaceFolderName": [
